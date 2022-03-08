@@ -5,4 +5,4 @@
 
 ## Voici mes stats
 
-![Mes stats](https://github-readme-stats.vercel.app/api?username=alexandre-vl&show_icons=true&theme=radical)
+![Mes stats](https://github-readme-stats.vercel.app/api?username=alexandre-vl&show_icons=true&theme=material-palenight)
