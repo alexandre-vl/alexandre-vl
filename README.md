@@ -4,5 +4,5 @@
 > Grâce à cette approche, cela m'a permis de découvrir le Javascript. 🌙
 
 ## Voici mes stats
-
+<img src="https://komarev.com/ghpvc/?username=alexandre-vl&style=flat-square&color=blue" alt=""/>
 ![Mes stats](https://github-readme-stats.vercel.app/api?username=alexandre-vl&show_icons=true&theme=material-palenight)
