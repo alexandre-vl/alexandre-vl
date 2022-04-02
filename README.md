@@ -1,7 +1,6 @@
 ## Salut, Moi C'est Alexandre 👋
 
-> Depuis maintenant 2 ans, je me suis spécialisé dans le développement du bot Discord en Javascript. J'ai pu faire déjà pas mal de projet dans ce domaine.
-> Grâce à cette approche, cela m'a permis de découvrir le Javascript. 🌙
+> For 2 years now, I have specialized in the development of the Discord bot in Javascript. I have already done a lot of projects in this field. Thanks to this approach, > it allowed me to discover Javascript. 🌙
 <img src="https://komarev.com/ghpvc/?username=alexandre-vl&style=flat-square&color=blue" alt=""/>
 
 ## Voici mes stats 
