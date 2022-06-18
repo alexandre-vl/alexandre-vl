@@ -1,4 +1,4 @@
-<img src="./banner.PNG">
+<img src="./banner.png">
 
 # Hey! I'm Alexandre <img src="./cat.gif" width="40" height="40" />
 
