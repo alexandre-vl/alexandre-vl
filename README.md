@@ -1,4 +1,4 @@
-<img src="./banner.png" style="border-radius:20px;">
+<img src="./banner.png" style="border-radius:50%">
 
 # Hey! I'm Alexandre <img src="./cat.gif" width="40" height="40" />
 
