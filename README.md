@@ -1,13 +1,10 @@
+<img height="500" src="./banner.jpg">
+
 # Hey! I'm Alexandre <img src="./cat.gif" width="40" height="40" />
 
 > For 2 years now, I have specialized in the development of the Discord bot in Javascript. I have already done a lot of projects in this field. Thanks to this approach,   it allowed me to discover Javascript. 🌙
 
 ---
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### About Me
 
 
 ### Technologies
