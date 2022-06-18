@@ -2,7 +2,24 @@
 
 # Hey! I'm Alexandre <img src="./cat.gif" width="40" height="40" />
 
-> For 2 years now, I have specialized in the development of the Discord bot in Javascript. I have already done a lot of projects in this field. Thanks to this approach,   it allowed me to discover Javascript. 🌙
+> I'm french Developer specialized in Javascript. I could realize a lot of projects like Discord bots or websites 🌙.
+
+---
+
+```js
+const me = users.find(user => user.name === "Alexandre V.L")
+console.log(me)
+```
+
+```js
+PS C:\Users\Alexx> node profile.js
+{
+    name: "Alexandre V.L",
+    age: 1168556399,
+    description: "I am learning more and more technology every day to expand my skills. For that, I started to work on web development with framework. I plan to diversify by learning front-end and back-end."
+}
+
+```
 
 ---
 
