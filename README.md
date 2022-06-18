@@ -43,6 +43,3 @@ PS C:\Users\Alexx> node profile.js
 ---
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&myquote=If+you+want+to+buy+things+without+looking+at+the+price%2C+you+have+to+work+without+looking+at+the+time)](https://github.com/piyushsuthar/github-readme-quotes)
-
-### My stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
