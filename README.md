@@ -1,4 +1,4 @@
-<img src="./banner_me.jpg" style="border-radius:50%">
+<a href="https://alexandre-vl.fr" target="_blank"><img src="./banner_me.jpg" style="border-radius:50%"></a>
 
 # Hey! I'm Alexandre <img src="./cat.gif" width="40" height="40" />
 
