@@ -44,4 +44,4 @@ PS C:\Users\Alexx> node profile.js
 
 ---
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&myquote=If+you+want+to+buy+things+without+looking+at+the+price%2C+you+have+to+work+without+looking+at+the+time)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=If+you+want+to+buy+things+without+looking+at+the+price%2C+you+have+to+work+without+looking+at+the+time)](https://github.com/piyushsuthar/github-readme-quotes)
