@@ -41,8 +41,3 @@ PS C:\Users\Alexx> node profile.js
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
----
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=If+you+want+to+buy+things+without+looking+at+the+price%2C+you+have+to+work+without+looking+at+the+time)](https://github.com/piyushsuthar/github-readme-quotes)
