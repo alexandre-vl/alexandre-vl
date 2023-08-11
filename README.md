@@ -26,4 +26,4 @@ PS C:\Users\Alexx> node profile.js
 
 ### Technologies
 
-[![Technologies](https://skillicons.dev/icons?i=js,ts,html,css,php,vue,nestjs,ejs,react,nuxtjs,nodejs,nextjs,adonis,alpinejs,bash,dart,docker,eclipse,electron,cloudflare,express,figma,firebase,flutter,git,github,heroku,java,jquery,linux,materialui,mongodb,mysql,postgres,postman,prisma,py,redis,replit,sass,stackoverflow,selenium,swift,tailwind,threejs,vite,vscode)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=js,ts,html,css,php,vue,nestjs,react,nuxtjs,nodejs,nextjs,adonis,alpinejs,bash,dart,docker,eclipse,electron,cloudflare,express,figma,firebase,flutter,git,github,heroku,java,jquery,linux,materialui,mongodb,mysql,postgres,postman,prisma,py,redis,replit,sass,stackoverflow,selenium,swift,tailwind,threejs,vite,vscode)](https://skillicons.dev)
