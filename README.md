@@ -1,22 +1,22 @@
-<a href="https://alexandre-vl.fr" target="_blank"><img src="./banner_me.jpg" style="border-radius:50%"></a>
+# Yo I'm Alexandre V. <img src="./cat.gif" width="40" height="40" />
 
-# Hey! I'm Alexandre <img src="./cat.gif" width="40" height="40" />
-
-> I'm french Developer specialized in Javascript. I could realize a lot of projects like Discord bots or websites 🌙.
+> I'm french developer specialized in web/mobile. I'm open to any kind of ambitious mobile application or dizzying website project.
 
 ---
 
 ```js
-const me = users.find(user => user.name === "Alexandre V.L")
+const me: User = users.find(user => user.name === "Alexandre V.")
 console.log(me)
 ```
 
 ```js
-PS C:\Users\Alexx> node profile.js
+PS C:\Users\Alex> bun profile.ts
 {
     name: "Alexandre V.L",
+    available: true,
     age: 1168556399,
-    description: "I am learning more and more technology every day to expand my skills. For that, I started to work on web development with framework. I plan to diversify by learning front-end and back-end."
+    description: "I am learning more and more technology every day to expand my skills. For that, I started to work on web development with framework. I plan to diversify by learning front-end and back-end.",
+    contact: "alexandre.vargas.lopez@gmail.com"
 }
 
 ```
