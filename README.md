@@ -1,29 +1,43 @@
-# Yo I'm Alexandre V. <img src="./cat.gif" width="40" height="40" />
+# Alexandre Vargas Lopez
 
-> I'm french developer specialized in web/mobile. I'm open to any kind of ambitious mobile application or dizzying website project.
+I design the interface and run the cluster under it.
 
----
+[alexvl.fr](https://alexvl.fr) · France · Go · TypeScript · Kubernetes
 
-```js
-const me: User = users.find(user => user.name === "Alexandre V.")
-console.log(me)
-```
+### [Kops](https://kops.gg)
 
-```js
-PS C:\Users\Alex> bun profile.ts
-{
-    name: "Alexandre V.L",
-    available: true,
-    age: 1168556399,
-    description: "I am learning more and more technology every day to expand my skills. For that, I started to work on web development with framework. I plan to diversify by learning front-end and back-end.",
-    contact: "alexandre.vargas.lopez@gmail.com"
-}
+The Vinted autocop for resellers. A listing goes live, it reaches your screen in under a second, and it is bought before anyone else finished refreshing.
 
-```
+30,000+ items bought · 500+ resellers · 50 accounts in parallel · 99% of accounts still alive after two years
 
----
+Go · Next.js · Postgres · Redis · Stripe · WebAuthn · k3s
 
+1.7M lines · 3,093 commits · 346 API routes · 325 migrations · 76 screens
 
-### Technologies
+### [ReadyCook](https://readycook.app)
 
-[![Technologies](https://skillicons.dev/icons?i=js,ts,html,css,php,vue,nestjs,react,nuxtjs,nodejs,nextjs,adonis,alpinejs,bash,dart,docker,eclipse,electron,cloudflare,express,figma,firebase,flutter,git,github,heroku,java,jquery,linux,materialui,mongodb,mysql,postgres,postman,prisma,py,redis,replit,sass,stackoverflow,selenium,swift,tailwind,threejs,vite,vscode)](https://skillicons.dev)
+The CRM resellers run their business on. Inventory, sales and margins in one place.
+
+### Before
+
+[Ontrace](https://ontrace.app), formerly Vynter. The Vinted bot that came before Kops, since 2023.
+
+[DevoLab](https://www.devolab.net). Web agency, cofounder, since 2022.
+
+### How it runs
+
+k3s across several nodes, mine to run · blue/green deploys · CloudNativePG · Caddy · Argo CD · Prometheus, Grafana, Loki · ClickHouse · no PaaS anywhere
+
+Reproduced TLS fingerprints · a sticky residential IP per account · automatic quarantine the moment a warning signal appears
+
+My own design system · CSS Modules · no Tailwind, no component library · PWA · dark mode · English and French
+
+### Also
+
+Native widgets for the [Omarchy](https://omarchy.org) bar.
+
+[pipelines](https://github.com/alexandre-vl/omarchy-pipelines) · [mpris](https://github.com/alexandre-vl/omarchy-mpris) · [nearby](https://github.com/alexandre-vl/omarchy-nearby) · [hardware](https://github.com/alexandre-vl/omarchy-hw-tooltip)
+
+2.5M lines of code across 33 repositories, most of them private.
+
+[alexvl.fr](https://alexvl.fr) · [alexandre.vargas.lopez@gmail.com](mailto:alexandre.vargas.lopez@gmail.com)
